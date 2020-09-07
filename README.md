@@ -1,0 +1,7 @@
+# HTTP_Library
+Custom HTTP library created with Javascript
+
+1) AJAX WITH CALLBACKS
+2) FETCH WITH PROMISES
+3) FETCH WITH ASYNC/AWAIT
+

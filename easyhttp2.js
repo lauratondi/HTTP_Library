@@ -1,3 +1,5 @@
+// FETCH WITH PROMISES
+
 /**
 * EasyHTTP Library
 * Library for making HTTP requests

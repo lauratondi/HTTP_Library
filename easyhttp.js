@@ -1,3 +1,5 @@
+// AJAX WITH CALLBACKS
+
 function easyHTTP() {
   this.http = new XMLHttpRequest();
 }
